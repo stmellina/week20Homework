@@ -1,0 +1,29 @@
+.background {
+    width: 1367px; 
+    height: 160px; 
+    background-color: #333333;
+    margin: 65px;
+}
+
+.header { 
+    color: white;
+    padding: 50px;
+    font-size: 50px;
+}
+
+.flipPhone { 
+    height: 549px; 
+    width: 293px; 
+}
+
+.header2 { 
+    font-size: 36px;
+    margin: 25px; 
+
+}
+
+.myRole{ 
+    width: fill;
+    height: 293px; 
+    background-color: #C1D2C1;
+}
